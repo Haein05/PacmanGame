@@ -43,4 +43,4 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 - [ Add More Levels] Design and implement additional levels with unique maze designs and increased difficulty to keep the gameplay engaging.
 - [ Multiplayer Mode] Introduce a multiplayer mode where two players can play simultaneously, either cooperatively or competitively.
 - [ Power-ups and Special Items ] Add various power-ups and special items that provide temporary abilities or bonuses to Pacman, such as speed boosts, invincibility, or extra points.
-# PacmanGame
+
