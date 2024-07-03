@@ -81,11 +81,11 @@ This section should be filled out at the end of the Sprint and submitted.
 
 | Question                                                     | Response |
 | ------------------------------------------------------------ | -------- |
-| Are the links above public and working?                      |   Yes       |
-| Did you complete all the unique requirements for the module? |   Yes       |
-| Did you write at least 100 lines of code?                    |   Yes       |
-| Did you fully complete the readme.md file?                   |   Yes       |
-| Did you put the readme.md file in GitHub in the top folder?  |   Yes       |
+| Are the links above public and working?                      |   Yes    |
+| Did you complete all the unique requirements for the module? |   Yes    |
+| Did you write at least 100 lines of code?                    |   Yes    |
+| Did you fully complete the readme.md file?                   |   Yes    |
+| Did you put the readme.md file in GitHub in the top folder?  |   Yes    |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did. If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge. 
  I did not complete a Stretch Challenge for this module.

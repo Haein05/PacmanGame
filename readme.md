@@ -1,6 +1,6 @@
 ## Overview
 
-**Project Title**: Pacman Master
+**Project Title**: Pacman Master Game
 
 **Project Description**: Pacman Master is a modern rendition of the classic Pacman arcade game, developed using JavaScript.This project demonstrates proficiency in web development, particularly in creating interactive and engaging browser-based games.
 

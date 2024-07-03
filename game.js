@@ -8,6 +8,7 @@ let createRect = (x, y, width, height, color) => {
     canvasContext.fillRect(x, y, width, height);
 };
 
+
 const DIRECTION_RIGHT = 4;
 const DIRECTION_UP = 3;
 const DIRECTION_LEFT = 2;
